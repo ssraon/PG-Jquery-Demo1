@@ -13,6 +13,7 @@
 	<access origin="http://google.com" />
 	<access origin="http://www.thomas-bayer.com" />
 	<access origin="http://api.themoviedb.org" />
+	<access origin="http://d3gtl9l2a4fn1j.cloudfront.net" />
 
 
     <feature name="http://api.phonegap.com/1.0/camera"/>
